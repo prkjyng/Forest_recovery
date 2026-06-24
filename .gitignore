@@ -216,3 +216,5 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+data/raw/산림입지도/ 
+data/raw/산사태위험지도/ 
